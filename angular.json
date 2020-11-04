@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Restaurantes"
+    }
+  },
+  "defaultProject": "Restaurantes",
+  "cli": {
+    "analytics": "43884a24-f02e-47c6-959f-51f8930190a3"
+  }
 }
